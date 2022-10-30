@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\учеба it\two\six-lesson\bin\Debug\net6.0\six-lesson.exe
+C:\Users\User\Desktop\учеба it\two\six-lesson\bin\Debug\net6.0\six-lesson.deps.json
+C:\Users\User\Desktop\учеба it\two\six-lesson\bin\Debug\net6.0\six-lesson.runtimeconfig.json
+C:\Users\User\Desktop\учеба it\two\six-lesson\bin\Debug\net6.0\six-lesson.dll
+C:\Users\User\Desktop\учеба it\two\six-lesson\bin\Debug\net6.0\six-lesson.pdb
+C:\Users\User\Desktop\учеба it\two\six-lesson\obj\Debug\net6.0\six-lesson.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\учеба it\two\six-lesson\obj\Debug\net6.0\six-lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\учеба it\two\six-lesson\obj\Debug\net6.0\six-lesson.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\учеба it\two\six-lesson\obj\Debug\net6.0\six-lesson.AssemblyInfo.cs
+C:\Users\User\Desktop\учеба it\two\six-lesson\obj\Debug\net6.0\six-lesson.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\учеба it\two\six-lesson\obj\Debug\net6.0\six-lesson.dll
+C:\Users\User\Desktop\учеба it\two\six-lesson\obj\Debug\net6.0\refint\six-lesson.dll
+C:\Users\User\Desktop\учеба it\two\six-lesson\obj\Debug\net6.0\six-lesson.pdb
+C:\Users\User\Desktop\учеба it\two\six-lesson\obj\Debug\net6.0\six-lesson.genruntimeconfig.cache
+C:\Users\User\Desktop\учеба it\two\six-lesson\obj\Debug\net6.0\ref\six-lesson.dll
